@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+redundancy.db
+agent-data.json
+.venv/
+venv/
